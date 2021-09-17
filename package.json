@@ -1,0 +1,6 @@
+{
+    "packageManager": "npm@7.21.1",
+    "devDependencies": {
+        "parcel": "^2.0.0-rc.0"
+    }
+}
